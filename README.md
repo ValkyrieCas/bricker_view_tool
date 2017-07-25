@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+   @copyright = BrickerViewTool::Renderer.copyright 'Kiersten Bricker', 'All rights reserved'
+```
 
 ## Development
 
